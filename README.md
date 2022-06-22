@@ -20,3 +20,6 @@ A system is a "fast jump" if the travel time from the jump ship to the planet * 
 
 # Requirements
 Requires the Navigation Computer mod.
+
+# Notes
+This mod is specifically for Pode who enjoys the pain of enforcing lore based rules on himself.
