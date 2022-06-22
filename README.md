@@ -16,3 +16,7 @@ A system is a "fast jump" if the travel time from the jump ship to the planet * 
 |A|7|
 |B|7|
 |O|6|
+
+
+# Requirements
+Requires the Navigation Computer mod.
