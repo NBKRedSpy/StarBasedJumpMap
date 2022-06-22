@@ -1,0 +1,17 @@
+﻿{
+  "Name": "StarBasedJumpMap",
+  "Version": "1.0.0.0",
+  "Description": "",
+  "Author": "NBK_RedSpy",
+  "Website": "https://github.com/NBKRedSpy/StarBasedJumpMap",
+
+  "Enabled": true,
+
+  "DLL": "StarBasedJumpMap.dll",
+
+  "DependsOn": [ "NavigationComputer" ],
+
+  "Settings": {
+  }
+
+}
